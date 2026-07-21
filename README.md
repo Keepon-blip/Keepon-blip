@@ -1,29 +1,117 @@
-<h1 align="center">Hi 👋, I'm Keepon Mirishoi</h1>
-<h3 align="center">A passionate software engineer from Kenya</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=keepon-blip&label=Profile%20views&color=0e75b6&style=flat" alt="keepon-blip" /> </p>
+# Hi, I'm Keepon Mirishoi 👋
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=keepon-blip" alt="keepon-blip" /></a> </p>
+### Software Engineering Student · Startup Co-Founder · Full-Stack Developer
 
-<p align="left"> <a href="https://twitter.com/colewrld_keepon" target="blank"><img src="https://img.shields.io/twitter/follow/colewrld_keepon?logo=twitter&style=for-the-badge" alt="colewrld_keepon" /></a> </p>
+From Kenya 🇰🇪, currently based in Kuala Lumpur 🇲🇾. I build full-stack web, mobile, and immersive AR experiences with a focus on useful, human-centered products.
 
-- 🔭 I’m currently working on [Amanah Logistics](https://amanahlogistics.com/)
+[![Portfolio](https://img.shields.io/badge/Current_Project-Amanah_Logistics-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://amanahlogistics.com/)
+[![Email](https://img.shields.io/badge/Email-Let's_Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:skmephep@gmail.com)
+[![X](https://img.shields.io/badge/X-@colewrld__keepon-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/colewrld_keepon)
+[![Instagram](https://img.shields.io/badge/Instagram-@__1keepon-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_1keepon)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Keepon_Mirishoi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/keepon-mirishoi-8262b81a6)
+[![Portfolio](https://img.shields.io/badge/Portfolio-View_My_Work-6C63FF?style=for-the-badge&logo=render&logoColor=white)](https://keepon-portfolio.onrender.com)
 
-- 📫 How to reach me **skmephep@gmail.com**
+![Profile views](https://komarev.com/ghpvc/?username=keepon-blip&label=Profile+views&color=0A66C2&style=flat)
 
-- ⚡ Fun fact **I like travelling but I'm yet to travel to more than 3 countries lol**
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/colewrld_keepon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="colewrld_keepon" height="30" width="40" /></a>
-<a href="https://instagram.com/_1keepon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_1keepon" height="30" width="40" /></a>
-</p>
+## About me
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a> </p>
+- 🎓 Final-year Software Engineering student at Xiamen University Malaysia
+- 🚚 Co-founder and Full-Stack Developer at [Amanah Logistics](https://amanahlogistics.com/)
+- 🧠 Built an AI-powered augmented reality anatomy-learning platform with Unity, AR Foundation, and Gemini
+- 💡 Interested in full-stack, mobile, cloud, XR, and human-centered product development
+- 🌍 Motivated by technology that advances education, digital transformation, and social impact
+- ✈️ I love travelling—and I plan to add many more countries to the list
+- 🤝 Open to internship opportunities and collaborating on meaningful projects
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=keepon-blip&show_icons=true&locale=en&layout=compact" alt="keepon-blip" /></p>
+## Featured projects
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=keepon-blip&show_icons=true&locale=en" alt="keepon-blip" /></p>
+### 🚚 [Amanah Logistics](https://amanahlogistics.com/)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=keepon-blip&" alt="keepon-blip" /></p>
+A production-ready logistics ecosystem for customers, businesses, administrators, and delivery riders. I co-founded the startup, designed more than 20 REST APIs, built Flutter rider features, integrated real-time services with Supabase, and helped deploy the platform using AWS EC2, Docker, and Nginx.
+
+`React` `Node.js` `Express.js` `Flutter` `Supabase` `AWS EC2` `Docker` `Nginx`
+
+### 🫀 BioScope — AI-Powered AR Anatomy Learning
+
+An Android augmented reality learning experience featuring interactive 3D anatomy, gaze-based selection, AI-generated explanations and quizzes, plus hands-free voice interaction.
+
+`Unity` `C#` `AR Foundation` `Gemini API` `XR Interaction Toolkit` `Android`
+
+### 🛍️ [Freewill Store](https://freewillco.xyz)
+
+An e-commerce platform with a responsive storefront, product catalogue, shopping cart, checkout flow, and administrative dashboard.
+
+`ASP.NET Core MVC` `JavaScript` `Bootstrap` `SQL Server`
+
+### 🌐 [Personal Portfolio](https://keepon-portfolio.onrender.com)
+
+A responsive showcase of my projects and technical experience, containerized with Docker and deployed on Render.
+
+`ASP.NET Core MVC` `HTML` `CSS` `JavaScript` `Docker` `Render`
+
+## Tech stack
+
+### Languages
+
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+### Web & mobile
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)
+![AR Foundation](https://img.shields.io/badge/AR_Foundation-000000?style=flat-square&logo=unity&logoColor=white)
+
+### Cloud, data & tools
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=flat-square&logo=firebase&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+
+## GitHub activity
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=keepon-blip&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" alt="Keepon's GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keepon-blip&layout=compact&theme=transparent&hide_border=true" alt="Keepon's most used languages" />
+
+<img src="https://streak-stats.demolab.com?user=keepon-blip&theme=transparent&hide_border=true" alt="Keepon's GitHub streak" />
+
+</div>
+
+---
+
+<div align="center">
+
+### Let's build something worthwhile.
+
+[Portfolio](https://keepon-portfolio.onrender.com) · [LinkedIn](https://linkedin.com/in/keepon-mirishoi-8262b81a6) · [Email me](mailto:skmephep@gmail.com) · [Follow me on X](https://twitter.com/colewrld_keepon)
+
+</div>
