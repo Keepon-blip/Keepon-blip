@@ -47,7 +47,7 @@ An e-commerce platform with a responsive storefront, product catalogue, shopping
 
 `ASP.NET Core MVC` `JavaScript` `Bootstrap` `SQL Server`
 
-### [Personal Portfolio](https://keepon-portfolio.onrender.com)
+### [Personal Portfolio](https://keepon.pages.dev)
 
 A responsive showcase of my projects and technical experience, containerized with Docker and deployed on Render.
 
