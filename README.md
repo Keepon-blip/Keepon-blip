@@ -11,7 +11,7 @@ From Kenya 🇰🇪, currently based in Kuala Lumpur 🇲🇾. I build full-stac
 [![X](https://img.shields.io/badge/X-@colewrld__keepon-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/colewrld_keepon)
 [![Instagram](https://img.shields.io/badge/Instagram-@__1keepon-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_1keepon)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Keepon_Mirishoi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/keepon-mirishoi-8262b81a6)
-[![Portfolio](https://keepon.pages.dev/images/brand/logo-light.png)](https://keepon.pages.dev/)
+[![Portfolio]()](https://keepon.pages.dev/)
 
 ![Profile views](https://komarev.com/ghpvc/?username=keepon-blip&label=Profile+views&color=0A66C2&style=flat)
 
