@@ -19,35 +19,35 @@ From Kenya 🇰🇪, currently based in Kuala Lumpur 🇲🇾. I build full-stac
 
 ## About me
 
-- 🎓 Final-year Software Engineering student at Xiamen University Malaysia
-- 🚚 Co-founder and Full-Stack Developer at [Amanah Logistics](https://amanahlogistics.com/)
-- 🧠 Built an AI-powered augmented reality anatomy-learning platform with Unity, AR Foundation, and Gemini
-- 💡 Interested in full-stack, mobile, cloud, XR, and human-centered product development
-- 🌍 Motivated by technology that advances education, digital transformation, and social impact
-- ✈️ I love travelling—and I plan to add many more countries to the list
-- 🤝 Open to internship opportunities and collaborating on meaningful projects
+- Final-year Software Engineering student at Xiamen University Malaysia
+- Co-founder and Full-Stack Developer at [Amanah Logistics](https://amanahlogistics.com/)
+- Built an AI-powered augmented reality anatomy-learning platform with Unity, AR Foundation, and Gemini
+- Interested in full-stack, mobile, cloud, XR, and human-centered product development
+- Motivated by technology that advances education, digital transformation, and social impact
+- I love travelling—and I plan to add many more countries to the list
+- Open to internship opportunities and collaborating on meaningful projects
 
 ## Featured projects
 
-### 🚚 [Amanah Logistics](https://amanahlogistics.com/)
+### [Amanah Logistics](https://amanahlogistics.com/)
 
 A production-ready logistics ecosystem for customers, businesses, administrators, and delivery riders. I co-founded the startup, designed more than 20 REST APIs, built Flutter rider features, integrated real-time services with Supabase, and helped deploy the platform using AWS EC2, Docker, and Nginx.
 
 `React` `Node.js` `Express.js` `Flutter` `Supabase` `AWS EC2` `Docker` `Nginx`
 
-### 🫀 BioScope — AI-Powered AR Anatomy Learning
+### BioScope — AI-Powered AR Anatomy Learning
 
 An Android augmented reality learning experience featuring interactive 3D anatomy, gaze-based selection, AI-generated explanations and quizzes, plus hands-free voice interaction.
 
 `Unity` `C#` `AR Foundation` `Gemini API` `XR Interaction Toolkit` `Android`
 
-### 🛍️ [Freewill Store](https://freewillco.xyz)
+### [Freewill Store](https://freewillco.xyz)
 
 An e-commerce platform with a responsive storefront, product catalogue, shopping cart, checkout flow, and administrative dashboard.
 
 `ASP.NET Core MVC` `JavaScript` `Bootstrap` `SQL Server`
 
-### 🌐 [Personal Portfolio](https://keepon-portfolio.onrender.com)
+### [Personal Portfolio](https://keepon-portfolio.onrender.com)
 
 A responsive showcase of my projects and technical experience, containerized with Docker and deployed on Render.
 
